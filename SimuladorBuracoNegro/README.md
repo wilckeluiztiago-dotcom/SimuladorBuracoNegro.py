@@ -157,7 +157,7 @@ python3 animacao_geodesica.py
 
 ## 📄 Licença
 
-MIT License - Luiz Tiago Wilcke © 2024
+MIT License - Luiz Tiago Wilcke © 2025
 
 ---
 
